@@ -8,7 +8,6 @@ Welcome to ShopIn, a mock e-commerce application built with React to showcase my
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Technologies Used
