@@ -18,7 +18,11 @@ Welcome to ShopIn, a mock e-commerce application built with React to showcase my
 
 ## Features
 
+<<<<<<< HEAD
 - Product listing page displaying products from mock data.
+=======
+- Product listing page displaying products from mock data json file.
+>>>>>>> ff92c0a4fd23ee1169b546a7421856c5e5d14059
 - Product details page.
 - Shopping cart functionality.
 - State management using Context API.
@@ -26,6 +30,19 @@ Welcome to ShopIn, a mock e-commerce application built with React to showcase my
 
 ## Installation
 
+<<<<<<< HEAD
+=======
+To get a local copy up and running, follow these steps:
+
+1. Clone the repository:
+   git clone https://github.com/your-username/shopin.git
+2. Navigate to the project directory
+    cd shopin
+3. Install dependencies:
+    npm install
+4. Start the deployement server:
+    npm run dev
+>>>>>>> ff92c0a4fd23ee1169b546a7421856c5e5d14059
 
 # Usage
 Once the development server is running, you can access the application at http://localhost:5173.
